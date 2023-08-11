@@ -1,0 +1,9 @@
+Input tag is going to carry diff type of attributes :
+
+type attribute : values="number", "text", "date" , "Email" ,"Password" ,"radio", "checkbox" ,"submit", "reset", "button ". 
+
+place-holder : Place-holder carries a dummy message
+
+name : name attribute helps to give unique identity
+
+value:value attribute carries the content of the input field 
